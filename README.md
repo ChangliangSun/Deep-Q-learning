@@ -1,3 +1,6 @@
-# PROJECT 3: REINFORCEMENT LEARNING
-
-In this project, you will implement value iteration and Q-learning. You will test your agents first on Gridworld (from class), then apply them to a simulated robot controller (Crawler) and Pacman.
+deep Q-learning install instruction
+   >>> conda install -c anaconda python=3.6.1
+   >>>conda install -c peterjc123 pytorch-cpu
+   >>> pip install kivy.deps.gstreamer
+   >>> pip install kivy
+   >>> conda list
